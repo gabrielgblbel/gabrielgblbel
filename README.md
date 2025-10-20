@@ -1,30 +1,30 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">👋 Olá, tudo bem?</h1>
 
 ###
 
 <p align="left">
-I'm <strong>Gabriel Araújo</strong> — IT Solutions Analyst & QA Enthusiast from São Paulo, Brazil 🇧🇷  
-With 8+ years of experience in <strong>Infrastructure, Automation, and System Development</strong>.
+Sou <strong>Gabriel Araújo</strong> — Analista de Soluções e QA, apaixonado por automação, tecnologia e melhoria contínua.  
+Atuo na área de TI há mais de <strong>8 anos</strong>, com experiência em <strong>infraestrutura, desenvolvimento interno e integração de sistemas</strong>.
 </p>
 
 ###
 
-<h2 align="left">🚀 About Me</h2>
+<h2 align="left">🚀 Sobre mim</h2>
 
 ###
 
 <p align="left">
-✨ Creating efficient solutions and automations since 2016.<br>
-📚 Currently learning and improving skills in <strong>QA (API/UI Tests, Playwright, Postman, pytest)</strong>.<br>
-⚙️ Experienced with <strong>GLPI API</strong>, <strong>MDT</strong>, <strong>Docker</strong>, and <strong>Python/PHP</strong> for IT automation.<br>
-🎯 Goals: Transitioning into QA/Software Testing roles with a focus on automation and reliability.<br>
-🎓 Certifications: <strong>ITIL® 4 Foundation (PeopleCert)</strong> • <strong>Oracle AI Foundations (OCI)</strong>.<br>
-🎲 Fun fact: I love transforming internal tools into polished, automated systems.
+✨ Criando soluções eficientes e automações desde 2016.<br>
+📚 Atualmente estudando e aprimorando práticas de <strong>QA (Testes de API/UI com Playwright, Postman e pytest)</strong>.<br>
+⚙️ Experiência com <strong>GLPI API</strong>, <strong>MDT</strong>, <strong>Docker</strong>, <strong>Python</strong> e <strong>PHP</strong> para automação e monitoramento.<br>
+🎯 Objetivo: Atuar na área de <strong>Qualidade de Software / Automação de Testes</strong> aplicando boas práticas e confiabilidade.<br>
+🎓 Certificações: <strong>ITIL® 4 Foundation (PeopleCert)</strong> • <strong>Oracle AI Foundations (OCI)</strong>.<br>
+🎲 Curiosidade: gosto de transformar tarefas manuais em processos automatizados e inteligentes.
 </p>
 
 ###
 
-<h2 align="left">🧠 Skills & Tools</h2>
+<h2 align="left">🧠 Habilidades e Tecnologias</h2>
 
 ###
 
@@ -48,17 +48,17 @@ With 8+ years of experience in <strong>Infrastructure, Automation, and System De
 
 ###
 
-<h2 align="left">💡 Areas of Expertise</h2>
+<h2 align="left">💡 Áreas de Atuação</h2>
 
-- 🔧 **Automation & Integration:** PowerShell, Python, REST API (GLPI, Outlook 365, Telegram)
-- 🧩 **QA / Testing:** API Testing (Postman), UI Testing (Playwright), Evidence Reports
-- 🧱 **DevOps / Infrastructure:** Docker, NGINX, MDT, Zabbix, Grafana, SonicWall
-- 🧰 **Development:** PHP (Portal Extranet), JS/HTML/CSS, PyQt6 Apps
-- 📊 **Documentation & Management:** Wiki (PHP), ITIL-based SLAs, Google Sheets dashboards
+- 🔧 **Automação e Integração:** PowerShell, Python, REST API (GLPI, Outlook 365, Telegram)
+- 🧩 **Qualidade de Software / Testes:** Testes de API (Postman), UI (Playwright), relatórios e evidências
+- 🧱 **DevOps / Infraestrutura:** Docker, NGINX, MDT, Zabbix, Grafana, SonicWall
+- 🧰 **Desenvolvimento:** PHP (Portal Extranet), HTML/CSS/JS, PyQt6
+- 📊 **Documentação e Gestão:** Wiki (PHP), SLAs baseados em ITIL, painéis no Google Sheets
 
 ###
 
-<h2 align="left">📫 Connect with Me</h2>
+<h2 align="left">📫 Conecte-se comigo</h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gabriel-da-silva-araujo-9b91b1246/" target="_blank">
@@ -74,20 +74,20 @@ With 8+ years of experience in <strong>Infrastructure, Automation, and System De
 
 ###
 
-<h2 align="left">📊 GitHub Stats</h2>
+<h2 align="left">📊 Estatísticas do GitHub</h2>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielgblbel&show_icons=true&theme=github_dark" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgblbel&layout=compact&theme=github_dark" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielgblbel&show_icons=true&theme=github_dark" height="160" alt="Gráfico de status do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgblbel&layout=compact&theme=github_dark" height="160" alt="Gráfico de linguagens" />
 </div>
 
 ###
 
-<h2 align="left">📁 Featured Projects</h2>
+<h2 align="left">📁 Projetos em Destaque</h2>
 
-- 💬 **Portal Extranet GLPI:** PHP + Docker system for automated ticket creation and SLA dashboards.  
-- 🧠 **Knowledge Base (Wiki):** Internal documentation portal using PHP, LDAP, and Docker stack.
+- 💬 **Portal Extranet GLPI:** Sistema em PHP + Docker com abertura automática de chamados e SLAs.   
+- 🧠 **Knowledge Base (Wiki):** Portal interno de documentação em PHP com autenticação LDAP e Docker.
 
 ---
 
-⭐ **"Automation turns complexity into simplicity — one script at a time."**
+⭐ **“Automatizar é transformar complexidade em simplicidade — uma linha de código por vez.”**
