@@ -90,4 +90,9 @@ Atuo na área de TI há mais de <strong>8 anos</strong>, com experiência em <st
 
 ---
 
+| [<img loading="lazy" src="https://github.com/gabrielgblbel.png" width="115"><br><sub>Gabriel Araújo</sub>](https://github.com/gabrielgblbel) |
+| :---: |
+
+---
+
 ⭐ *“Automatizar é transformar complexidade em simplicidade — uma linha de código por vez.”*
