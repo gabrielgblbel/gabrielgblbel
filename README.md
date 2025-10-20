@@ -67,7 +67,7 @@ With 8+ years of experience in <strong>Infrastructure, Automation, and System De
   <a href="mailto:gabrielgblbel@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/gabrielglblbel" target="_blank">
+  <a href="https://github.com/gabrielgblbel" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -77,7 +77,17 @@ With 8+ years of experience in <strong>Infrastructure, Automation, and System De
 <h2 align="left">📊 GitHub Stats</h2>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielglblbel&show_icons=true&theme=github_dark" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielglblbel&layout=compact&theme=github_dark" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielgblbel&show_icons=true&theme=github_dark" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgblbel&layout=compact&theme=github_dark" height="160" alt="languages graph" />
 </div>
 
+###
+
+<h2 align="left">📁 Featured Projects</h2>
+
+- 💬 **Portal Extranet GLPI:** PHP + Docker system for automated ticket creation and SLA dashboards.  
+- 🧠 **Knowledge Base (Wiki):** Internal documentation portal using PHP, LDAP, and Docker stack.
+
+---
+
+⭐ **"Automation turns complexity into simplicity — one script at a time."**
