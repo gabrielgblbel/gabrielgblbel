@@ -12,7 +12,7 @@ Atuo na área de TI há mais de <strong>8 anos</strong>, com experiência em <st
 ✨ Criando soluções eficientes e automações desde 2016.  
 📚 Atualmente estudando <strong>QA (Testes de API/UI com Playwright, Postman e pytest)</strong>.  
 ⚙️ Experiência com <strong>GLPI API</strong>, <strong>MDT</strong>, <strong>Docker</strong>, <strong>Python</strong> e <strong>PHP</strong> para automação e monitoramento.  
-🎯 Objetivo: Atuar em <strong>Qualidade de Software / Automação de Testes</strong>.  
+🎯 Objetivo: Atuar em  <strong> Desenvolvedor front end / Qualidade de Software / Automação de Testes / Analista de Infrastrutura</strong>.  
 🎓 Certificações: <strong>ITIL® 4 Foundation (PeopleCert)</strong> • <strong>Oracle AI Foundations (OCI)</strong>.  
 🎲 Curiosidade: adoro transformar tarefas manuais em processos automatizados e inteligentes.
 
