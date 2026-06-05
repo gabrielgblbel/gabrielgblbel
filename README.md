@@ -77,10 +77,7 @@ Atuo na área de TI há mais de <strong>8 anos</strong>, com experiência em <st
 
 ## 📊 Estatísticas do GitHub
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielgblbel&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160" alt="Gráfico de status do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgblbel&layout=compact&theme=github_dark&hide_border=true" height="160" alt="Linguagens mais usadas"/>
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielgblbel&theme=github-compact&hide_border=true&area=true" width="100%" alt="Gráfico de atividade do GitHub"/>
 
 ---
 
