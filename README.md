@@ -33,16 +33,6 @@ Atuo na área de TI há mais de <strong>8 anos</strong>, com experiência em <st
 
 ---
 
-## 💼 Experiência Profissional
-
-| Período | Empresa | Cargo |
-|---------|---------|-------|
-| fev/2026 – mai/2026 | **AC Consulti Brasil** | Analista de Infraestrutura |
-| out/2023 – out/2025 | **THS Tecnologia** | Analista de Operações Jr |
-| mai/2021 – jun/2023 | **Capgemini** | Analista de Soluções III |
-| dez/2017 – mai/2021 | **Capgemini** | Analista de Infraestrutura II |
-| out/2015 – dez/2017 | **Capgemini** | Técnico de Infraestrutura Jr |
-
 ---
 
 ## 🧠 Habilidades e Tecnologias
