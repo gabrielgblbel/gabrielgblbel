@@ -53,7 +53,6 @@ Especialista em <strong>virtualização, automação, segurança de redes</stron
 <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 
-<br/><br/>
 
 **Infraestrutura & DevOps**
 
@@ -67,7 +66,6 @@ Especialista em <strong>virtualização, automação, segurança de redes</stron
 <img src="https://img.shields.io/badge/FreeIPA%2FLDAP-CC0000?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white"/>
 
-<br/><br/>
 
 **Monitoramento & Banco de Dados**
 
@@ -77,7 +75,6 @@ Especialista em <strong>virtualização, automação, segurança de redes</stron
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-<br/><br/>
 
 **Ferramentas**
 
