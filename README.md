@@ -1,8 +1,8 @@
 <h1 align="left">👋 Olá, tudo bem?</h1>
 
 <p align="left">
-Sou <strong>Gabriel Araújo</strong> — Analista de Infraestrutura & Desenvolvedor, apaixonado por automação, tecnologia e melhoria contínua.<br/>
-Atuo na área de TI há mais de <strong>8 anos</strong>, com experiência em <strong>infraestrutura, desenvolvimento interno e integração de sistemas</strong>.
+Sou <strong>Gabriel Araújo</strong> — Analista de Infraestrutura & Desenvolvedor com <strong>8+ anos</strong> em ambientes corporativos e governamentais.<br/>
+Especialista em <strong>virtualização, automação, segurança de redes</strong> e <strong>desenvolvimento web</strong>.
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gabrielgblbel&color=blue&style=flat-square&label=Visitas+ao+perfil)
