@@ -86,17 +86,6 @@ Atuo na área de TI há mais de <strong>8 anos</strong>, com experiência em <st
 
 ## 📁 Projetos em Destaque
 
-### Públicos
-
-<a href="https://github.com/gabrielgblbel/conversor-imagens">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielgblbel&repo=conversor-imagens&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/gabrielgblbel/prova-tecnica-qa-automation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielgblbel&repo=prova-tecnica-qa-automation&theme=github_dark&hide_border=true" />
-</a>
-
-### Privados
-
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
 | 🤖&nbsp;**Araujo&nbsp;IA** | App mobile pessoal com IA por voz — alarmes, aniversários, Modo Jarvis, falecimentos e sync Firebase | ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
@@ -104,6 +93,8 @@ Atuo na área de TI há mais de <strong>8 anos</strong>, com experiência em <st
 | 🖥️&nbsp;**Proxmox&nbsp;UI&nbsp;Custom** | Customizações de interface para Proxmox VE — observadores, temas, auto-realm e scripts de automação | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | 🔒&nbsp;**Hardenização&nbsp;Linux** | Guias e scripts de hardening para servidores Linux — CIS Benchmark, SSH, firewall e auditoria | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | 📦&nbsp;**Inventário&nbsp;Infra** | Sistema de inventário de infraestrutura — agentes Windows/Linux/Android com coleta automática e painel web | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| 🖼️&nbsp;[**Conversor&nbsp;de&nbsp;Imagens**](https://github.com/gabrielgblbel/conversor-imagens) | Conversor de imagens com interface gráfica — PNG, ICO e outros formatos | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 🧪&nbsp;[**QA&nbsp;Automation**](https://github.com/gabrielgblbel/prova-tecnica-qa-automation) | Prova técnica de automação de testes — API, UI e banco de dados | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
 
 ---
 
