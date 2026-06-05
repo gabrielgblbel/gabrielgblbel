@@ -83,8 +83,6 @@ Atuo na área de TI há mais de <strong>8 anos</strong>, com experiência em <st
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielgblbel&theme=github-compact&hide_border=true&area=true" width="100%" alt="Gráfico de atividade"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=gabrielgblbel&theme=darkhub&no-frame=true&row=1&column=7" width="100%" alt="Troféus"/>
-
 ---
 
 ## 📁 Projetos em Destaque
