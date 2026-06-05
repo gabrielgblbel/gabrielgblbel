@@ -5,6 +5,8 @@ Sou <strong>Gabriel Araújo</strong> — Analista de Soluções e QA, apaixonado
 Atuo na área de TI há mais de <strong>8 anos</strong>, com experiência em <strong>infraestrutura, desenvolvimento interno e integração de sistemas</strong>.
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=gabrielgblbel&color=blue&style=flat-square&label=Visitas+ao+perfil)
+
 ---
 
 ## 🚀 Sobre mim
@@ -77,7 +79,11 @@ Atuo na área de TI há mais de <strong>8 anos</strong>, com experiência em <st
 
 ## 📊 Estatísticas do GitHub
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielgblbel&theme=github-compact&hide_border=true&area=true" width="100%" alt="Gráfico de atividade do GitHub"/>
+<img src="https://streak-stats.demolab.com/?user=gabrielgblbel&theme=github-dark&hide_border=true&locale=pt_BR" width="100%" alt="Streak de contribuições"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielgblbel&theme=github-compact&hide_border=true&area=true" width="100%" alt="Gráfico de atividade"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=gabrielgblbel&theme=darkhub&no-frame=true&row=1&column=7" width="100%" alt="Troféus"/>
 
 ### Linguagens mais usadas
 
@@ -91,6 +97,14 @@ Atuo na área de TI há mais de <strong>8 anos</strong>, com experiência em <st
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Contribuições (Snake)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gabrielgblbel/gabrielgblbel/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/gabrielgblbel/gabrielgblbel/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://github.com/gabrielgblbel/gabrielgblbel/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
@@ -113,4 +127,4 @@ Atuo na área de TI há mais de <strong>8 anos</strong>, com experiência em <st
 
 ---
 
-⭐ *“Automatizar é transformar complexidade em simplicidade — uma linha de código por vez.”*
+⭐ *"Automatizar é transformar complexidade em simplicidade — uma linha de código por vez."*
