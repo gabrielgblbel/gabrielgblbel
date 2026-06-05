@@ -11,11 +11,12 @@ Atuo na área de TI há mais de <strong>8 anos</strong>, com experiência em <st
 
 ## 🚀 Sobre mim
 
-✨ Criando soluções eficientes e automações desde 2016.  
-📚 Atualmente estudando <strong>QA (Testes de API/UI com Playwright, Postman e pytest)</strong>.  
-⚙️ Experiência com <strong>Proxmox VE, Kubernetes, pfSense, Docker, PHP, Python</strong> e automação via API.  
-🎯 Objetivo: <strong>Infraestrutura / Desenvolvedor Front-End / QA / Automação de Testes</strong>.  
-🎲 Curiosidade: adoro transformar tarefas manuais em processos automatizados e inteligentes.
+💼 Profissional de TI com mais de <strong>8 anos de experiência</strong> em infraestrutura, suporte N1/N2/N3 e automação, atuando em ambientes corporativos e governamentais de alta criticidade.  
+🖥️ Experiência sólida em <strong>Proxmox VE, Kubernetes, pfSense, FreeIPA/LDAP, Docker, Zabbix e Grafana</strong>.  
+🔧 Automação e desenvolvimento com <strong>PHP, Python, FastAPI, Node.js, React, PowerShell e Shell</strong> — portais internos, integrações via API e agentes de monitoramento.  
+🧩 Conhecimentos em <strong>QA</strong> — testes funcionais, API (Postman), UI (Playwright/Selenium), evidências e rastreabilidade.  
+🎓 Pós-graduado em <strong>Segurança da Informação</strong> • Certificado <strong>ITIL® 4</strong> e <strong>Oracle Cloud AI Foundations</strong>.  
+🎲 Curiosidade: adoro transformar processos manuais em automações inteligentes.
 
 ---
 
