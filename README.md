@@ -98,14 +98,6 @@ Atuo na área de TI há mais de <strong>8 anos</strong>, com experiência em <st
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Contribuições (Snake)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gabrielgblbel/gabrielgblbel/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/gabrielgblbel/gabrielgblbel/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://github.com/gabrielgblbel/gabrielgblbel/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-
 ---
 
 ## 📁 Projetos em Destaque
