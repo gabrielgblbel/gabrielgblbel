@@ -1,7 +1,7 @@
 <h1 align="left">👋 Olá, tudo bem?</h1>
 
 <p align="left">
-Sou <strong>Gabriel Araújo</strong> — Analista de Soluções e QA, apaixonado por automação, tecnologia e melhoria contínua.<br/>
+Sou <strong>Gabriel Araújo</strong> — Analista de Infraestrutura & Desenvolvedor, apaixonado por automação, tecnologia e melhoria contínua.<br/>
 Atuo na área de TI há mais de <strong>8 anos</strong>, com experiência em <strong>infraestrutura, desenvolvimento interno e integração de sistemas</strong>.
 </p>
 
@@ -13,53 +13,101 @@ Atuo na área de TI há mais de <strong>8 anos</strong>, com experiência em <st
 
 ✨ Criando soluções eficientes e automações desde 2016.  
 📚 Atualmente estudando <strong>QA (Testes de API/UI com Playwright, Postman e pytest)</strong>.  
-⚙️ Experiência com <strong>GLPI API</strong>, <strong>MDT</strong>, <strong>Docker</strong>, <strong>Python</strong> e <strong>PHP</strong> para automação e monitoramento.  
-🎯 Objetivo: Atuar em  <strong> Desenvolvedor front end / Qualidade de Software / Automação de Testes / Analista de Infrastrutura</strong>.  
-🎓 Certificações: <strong>ITIL® 4 Foundation (PeopleCert)</strong> • <strong>Oracle AI Foundations (OCI)</strong>.  
+⚙️ Experiência com <strong>Proxmox VE, Kubernetes, pfSense, Docker, PHP, Python</strong> e automação via API.  
+🎯 Objetivo: <strong>Infraestrutura / Desenvolvedor Front-End / QA / Automação de Testes</strong>.  
 🎲 Curiosidade: adoro transformar tarefas manuais em processos automatizados e inteligentes.
 
 ---
 
-## 🧠 Habilidades e Tecnologias  
+## 🎓 Formação & Certificações
+
+**Formação Acadêmica**
+
+🎓 Pós-graduação em **Segurança da Informação** — Anhembi Morumbi (2024–2025)  
+🎓 **ADS** — Análise e Desenvolvimento de Sistemas — Anhembi Morumbi (2020–2024)
+
+**Certificações**
+
+![ITIL](https://img.shields.io/badge/ITIL®%204%20Foundation-PeopleCert-6B21A8?style=for-the-badge&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle%20Cloud%20AI%20Foundations-2025-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+---
+
+## 💼 Experiência Profissional
+
+| Período | Empresa | Cargo |
+|---------|---------|-------|
+| fev/2026 – mai/2026 | **AC Consulti Brasil** | Analista de Infraestrutura |
+| out/2023 – out/2025 | **THS Tecnologia** | Analista de Operações Jr |
+| mai/2021 – jun/2023 | **Capgemini** | Analista de Soluções III |
+| dez/2017 – mai/2021 | **Capgemini** | Analista de Infraestrutura II |
+| out/2015 – dez/2017 | **Capgemini** | Técnico de Infraestrutura Jr |
+
+---
+
+## 🧠 Habilidades e Tecnologias
 
 <div align="left">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python"/> 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" title="PHP"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="JavaScript"/>
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" title="PowerShell"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS3"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" title="Node.js"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" title="Postman"/>
+**Linguagens & Desenvolvimento**
 
-<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" title="Docker"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" title="Nginx"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" title="Grafana"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" title="Jira"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" title="GitHub"/>
-<img src="https://img.shields.io/badge/GLPI-API-blue?style=for-the-badge&logoColor=white" title="GLPI API"/>
+<br/><br/>
+
+**Infraestrutura & DevOps**
+
+<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Active%20Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/FreeIPA%2FLDAP-CC0000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white"/>
+
+<br/><br/>
+
+**Monitoramento & Banco de Dados**
+
+<img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Loki-F5A623?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<br/><br/>
+
+**Ferramentas**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/GLPI-API-blue?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 
 </div>
-
-<sub>
-⚙️ Também trabalho com: GLPI API, MDT (imagens corporativas), Zabbix, SonicWall, Google Sheets/Apps Script e PyQt6.<br/>
-📚 Estudando: automação de testes com Playwright + pytest, padrões de QA e rastreabilidade de requisitos.
-</sub>
 
 ---
 
 ## 💡 Áreas de Atuação
 
-- 🔧 **Automação e Integração:** PowerShell, Python, REST API (GLPI, Outlook 365, Telegram)  
-- 🧩 **Qualidade de Software / Testes:** Testes de API (Postman), UI (Playwright), evidências e relatórios  
-- 🧱 **DevOps / Infraestrutura:** Docker, NGINX, MDT, Zabbix, Grafana, SonicWall  
-- 🧰 **Desenvolvimento:** PHP (Portal Extranet), HTML/CSS/JS, PyQt6, TailwindCSS  
-- 📊 **Documentação e Gestão:** Wiki (PHP), SLAs baseados em ITIL, painéis no Google Sheets  
+- 🖥️ **Infraestrutura:** Proxmox VE, Kubernetes, pfSense, FreeIPA/LDAP, Windows Server, Active Directory  
+- 🔧 **Automação:** PowerShell, Python, Shell, REST API (GLPI, Zabbix, Netbox, Telegram)  
+- 🧩 **QA / Testes:** Testes funcionais, API (Postman), UI (Playwright/Selenium), evidências e rastreabilidade  
+- 🧱 **DevOps:** Docker, NGINX, MDT, Zabbix, Grafana, Loki, SonicWall  
+- 🧰 **Desenvolvimento:** PHP, Python/FastAPI, Node.js/React, HTML/CSS/JS  
+- 📊 **Gestão:** ITSM, SLA, ITIL, documentação técnica, Wiki  
 
 ---
 
@@ -90,7 +138,7 @@ Atuo na área de TI há mais de <strong>8 anos</strong>, com experiência em <st
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
 | 🤖&nbsp;**Araujo&nbsp;IA** | App mobile pessoal com IA por voz — alarmes, aniversários, Modo Jarvis, falecimentos e sync Firebase | ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| 🏢&nbsp;**WikiOps** | Plataforma web completa de gestão empresarial de TI — wiki, inventário hardware/software, chat, auditoria, RH e suporte | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Inno Setup](https://img.shields.io/badge/Inno%20Setup-264b99?style=flat-square&logoColor=white) |
+| 🏢&nbsp;**WikiOps** | Plataforma web completa de gestão empresarial de TI — wiki, inventário hardware/software, chat, auditoria, RH e suporte | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 | 🖥️&nbsp;**Proxmox&nbsp;UI&nbsp;Custom** | Customizações de interface para Proxmox VE — observadores, temas, auto-realm e scripts de automação | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | 🔒&nbsp;**Hardenização&nbsp;Linux** | Guias e scripts de hardening para servidores Linux — CIS Benchmark, SSH, firewall e auditoria | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | 📦&nbsp;**Inventário&nbsp;Infra** | Sistema de inventário de infraestrutura — agentes Windows/Linux/Android com coleta automática e painel web | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
