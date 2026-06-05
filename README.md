@@ -23,8 +23,8 @@ Atuo na área de TI há mais de <strong>8 anos</strong>, com experiência em <st
 
 **Formação Acadêmica**
 
-🎓 Pós-graduação em **Segurança da Informação** — Anhembi Morumbi (2024–2025)  
-🎓 **ADS** — Análise e Desenvolvimento de Sistemas — Anhembi Morumbi (2020–2024)
+🎓 Graduação &nbsp;— **Análise e Desenvolvimento de Sistemas** — Anhembi Morumbi (2020–2024)  
+🎓 Pós-grad &nbsp;&nbsp;— **Segurança da Informação** — Anhembi Morumbi (2024–2025)
 
 **Certificações**
 
