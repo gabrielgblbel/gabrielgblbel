@@ -1,8 +1,7 @@
 <h1 align="left">👋 Olá, tudo bem?</h1>
 
-<p align="left">
-Sou <strong>Gabriel Araújo</strong> — Analista de Infraestrutura & Desenvolvedor com <strong>8+ anos</strong> em ambientes corporativos e governamentais.<br/>
-Especialista em <strong>virtualização, automação, segurança de redes</strong> e <strong>desenvolvimento web</strong>.
+<p align="justify">
+Sou <strong>Gabriel Araújo</strong> — Analista de Infraestrutura & Desenvolvedor com <strong>8+ anos</strong> de experiência em ambientes corporativos e governamentais de alta criticidade, incluindo atuação em Autoridade Certificadora (ICP-Brasil). Trabalho na ponte entre infraestrutura e desenvolvimento: automatizo o que é manual, monitoro o que é crítico e construo as ferramentas que faltam no dia a dia operacional.
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gabrielgblbel&color=blue&style=flat-square&label=Visitas+ao+perfil)
@@ -11,12 +10,13 @@ Especialista em <strong>virtualização, automação, segurança de redes</stron
 
 ## 🚀 Sobre mim
 
-💼 Profissional de TI com mais de <strong>8 anos de experiência</strong> em infraestrutura, suporte N1/N2/N3 e automação, atuando em ambientes corporativos e governamentais de alta criticidade.  
-🖥️ Experiência sólida em <strong>Proxmox VE, Kubernetes, pfSense, FreeIPA/LDAP, Docker, Zabbix e Grafana</strong>.  
-🔧 Automação e desenvolvimento com <strong>PHP, Python, FastAPI, Node.js, React, PowerShell e Shell</strong> — portais internos, integrações via API e agentes de monitoramento.  
-🧩 Conhecimentos em <strong>QA</strong> — testes funcionais, API (Postman), UI (Playwright/Selenium), evidências e rastreabilidade.  
-🎓 Pós-graduado em <strong>Segurança da Informação</strong> • Certificado <strong>ITIL® 4</strong> e <strong>Oracle Cloud AI Foundations</strong>.  
-🎲 Curiosidade: adoro transformar processos manuais em automações inteligentes.
+<p align="justify">
+💼 Profissional de TI com mais de <strong>8 anos de experiência</strong> em infraestrutura, suporte N1/N2/N3, ITSM e automação de processos.<br/>
+📋 Vivência com <strong>GLPI, SLA, gestão de incidentes e documentação técnica</strong> (Wiki), além de integrações via API (GLPI, Netbox, Zabbix, Telegram).<br/>
+🧩 Conhecimentos em <strong>QA</strong> — testes funcionais, automação de API e UI, evidências e rastreabilidade.<br/>
+🎓 Pós-graduado em <strong>Segurança da Informação</strong> • Certificado <strong>ITIL® 4</strong> e <strong>Oracle Cloud AI Foundations</strong>.<br/>
+🎲 Curiosidade: adoro transformar processos manuais em automações inteligentes — é o fio condutor de quase tudo que construo.
+</p>
 
 ---
 
@@ -31,8 +31,6 @@ Especialista em <strong>virtualização, automação, segurança de redes</stron
 
 ![ITIL](https://img.shields.io/badge/ITIL®%204%20Foundation-PeopleCert-6B21A8?style=for-the-badge&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle%20Cloud%20AI%20Foundations-2025-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
----
 
 ---
 
@@ -76,26 +74,19 @@ Especialista em <strong>virtualização, automação, segurança de redes</stron
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 
-**Ferramentas**
+**Ferramentas & Gestão**
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/GLPI-API-blue?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netbox-00BCD4?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/SonicWall-FF6600?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/MDT-0078D6?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Telegram%20API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 
 </div>
-
----
-
-## 💡 Áreas de Atuação
-
-- 🖥️ **Infraestrutura:** Proxmox VE, Kubernetes, pfSense, FreeIPA/LDAP, Windows Server, Active Directory  
-- 🔧 **Automação:** PowerShell, Python, Shell, REST API (GLPI, Zabbix, Netbox, Telegram)  
-- 🧩 **QA / Testes:** Testes funcionais, API (Postman), UI (Playwright/Selenium), evidências e rastreabilidade  
-- 🧱 **DevOps:** Docker, NGINX, MDT, Zabbix, Grafana, Loki, SonicWall  
-- 🧰 **Desenvolvimento:** PHP, Python/FastAPI, Node.js/React, HTML/CSS/JS  
-- 📊 **Gestão:** ITSM, SLA, ITIL, documentação técnica, Wiki  
 
 ---
 
