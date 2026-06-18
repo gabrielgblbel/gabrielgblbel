@@ -10,13 +10,15 @@ Sou <strong>Gabriel Araújo</strong> — Analista de Infraestrutura & Desenvolve
 
 ## 🚀 Sobre mim
 
-<p align="justify">💼 Suporte técnico <strong>N1/N2/N3</strong>, gestão de incidentes e service desk com <strong>GLPI</strong> e <strong>SLA</strong>, aplicando boas práticas de <strong>ITSM</strong>.</p>
+<p align="justify">🖥️ Administração de ambientes virtualizados com <strong>Proxmox VE</strong> (cluster multi-site) e orquestração de contêineres com <strong>Kubernetes</strong>, incluindo rotinas de backup e disaster recovery.</p>
 
-<p align="justify">📋 Integrações via API entre <strong>GLPI, Netbox, Zabbix e Telegram</strong> para automatizar coleta de dados, alertas e documentação técnica (Wiki).</p>
+<p align="justify">🔐 Segurança de redes com <strong>pfSense</strong> e gestão de identidade com <strong>FreeIPA/LDAP</strong> e Active Directory.</p>
 
-<p align="justify">🧩 Atuação em <strong>QA</strong> — testes funcionais, automação de API e UI, com foco em evidências e rastreabilidade.</p>
+<p align="justify">📊 Monitoramento de infraestrutura com <strong>Zabbix, Grafana e Loki</strong>, incluindo implantação do <strong>Pulse</strong> para Proxmox VE e PBS.</p>
 
-<p align="justify">🎯 Abordagem orientada a resultado: identificação de processos manuais e substituição por automações confiáveis e mensuráveis.</p>
+<p align="justify">🔧 Desenvolvimento e automação com <strong>PHP, Python, Node.js e React</strong> — portais internos, integrações via API (GLPI, Netbox, Telegram) e agentes de monitoramento.</p>
+
+<p align="justify">🎫 Suporte técnico <strong>N1/N2/N3</strong>, gestão de incidentes e service desk com <strong>GLPI</strong> e <strong>SLA</strong>, com atuação em <strong>QA</strong> (testes funcionais, automação de API/UI, evidências e rastreabilidade).</p>
 
 ---
 
