@@ -10,13 +10,13 @@ Sou <strong>Gabriel Araújo</strong> — Analista de Infraestrutura & Desenvolve
 
 ## 🚀 Sobre mim
 
-<p align="justify">💼 Profissional de TI com mais de <strong>8 anos de experiência</strong> em infraestrutura, suporte N1/N2/N3, ITSM e automação de processos.</p>
+<p align="justify">💼 Suporte técnico <strong>N1/N2/N3</strong>, gestão de incidentes e service desk com <strong>GLPI</strong> e <strong>SLA</strong>, aplicando boas práticas de <strong>ITSM</strong>.</p>
 
-<p align="justify">📋 Vivência com <strong>GLPI, SLA, gestão de incidentes e documentação técnica</strong> (Wiki), além de integrações via API (GLPI, Netbox, Zabbix, Telegram).</p>
+<p align="justify">📋 Integrações via API entre <strong>GLPI, Netbox, Zabbix e Telegram</strong> para automatizar coleta de dados, alertas e documentação técnica (Wiki).</p>
 
-<p align="justify">🧩 Conhecimentos em <strong>QA</strong> — testes funcionais, automação de API e UI, evidências e rastreabilidade.</p>
+<p align="justify">🧩 Atuação em <strong>QA</strong> — testes funcionais, automação de API e UI, com foco em evidências e rastreabilidade.</p>
 
-<p align="justify">🎲 Curiosidade: adoro transformar processos manuais em automações inteligentes — é o fio condutor de quase tudo que construo.</p>
+<p align="justify">🎯 Abordagem orientada a resultado: identificação de processos manuais e substituição por automações confiáveis e mensuráveis.</p>
 
 ---
 
