@@ -14,7 +14,6 @@ Sou <strong>Gabriel Araújo</strong> — Analista de Infraestrutura & Desenvolve
 💼 Profissional de TI com mais de <strong>8 anos de experiência</strong> em infraestrutura, suporte N1/N2/N3, ITSM e automação de processos.<br/>
 📋 Vivência com <strong>GLPI, SLA, gestão de incidentes e documentação técnica</strong> (Wiki), além de integrações via API (GLPI, Netbox, Zabbix, Telegram).<br/>
 🧩 Conhecimentos em <strong>QA</strong> — testes funcionais, automação de API e UI, evidências e rastreabilidade.<br/>
-🎓 Pós-graduado em <strong>Segurança da Informação</strong> • Certificado <strong>ITIL® 4</strong> e <strong>Oracle Cloud AI Foundations</strong>.<br/>
 🎲 Curiosidade: adoro transformar processos manuais em automações inteligentes — é o fio condutor de quase tudo que construo.
 </p>
 
